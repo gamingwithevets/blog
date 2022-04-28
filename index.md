@@ -1,4 +1,4 @@
-**Welcome to GWE'sBlog.**
+**Welcome to GWE's Blog.**
 
 If you came here for my stuff, **don't panic**! You can still visit it [here](https://gamingwithevets.github.io/stuff).
 
