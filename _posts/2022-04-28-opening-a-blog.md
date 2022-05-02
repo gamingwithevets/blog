@@ -1,4 +1,4 @@
-# Opening a Blog Post
+# Opening a Blog
 
 Welcome to **GWE's Blog**, officially opening April 28, 2022!
 
