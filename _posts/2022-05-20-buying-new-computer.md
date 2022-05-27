@@ -3,7 +3,7 @@ I've been wanting to talk about this. And now I have the chance. So, what exactl
 
 ## Operating Systems
 I myself, use **Windows 11**; the Pro edition, to be exact. Because I don't give a crap about all the hate for it. So if I see that the computer has Windows 10 Pro on it, I'll deploy my Windows 11 USB out and start installing.  
-Unfortunately, some computers, especially laptops, have Windows 10 **Home** installed. If that's the case I have to first install the Pro edition by any means possible, *then* I'll deplay my Windows 11 USB.
+Unfortunately, some computers, especially laptops, have Windows 10 **Home** installed. If that's the case I have to first install the Pro edition by any means possible, *then* I'll deploy my Windows 11 USB.
 
 Nowadays, I have seen a laptop with Windows 11 pre-installed. However I cannot check what edition it was, but I think it was running at 100% text scaling, so it's probably Pro (Home runs at *125%* text scaling by default).
 
@@ -28,3 +28,5 @@ If you're using Windows, you might as well use Microsoft Office. I also use a pi
 
 ## Conclusion
 Thanks to all the Vietnamese pirates, I can install anything without spending a single penny, or Vietnamese dong or whatever. In fact, I play Minecraft and use [TLauncher](https://tlauncher.org/en/) to play for free. Now, I'm not promoting TLauncher, so don't tell me "that's illegal" or something. In fact, Mojang knows but doesn't give a crap about TLauncher.
+
+I'm also planning on releasing a bundle that has these programs. When it's released, I hope it will be useful. But **use it only PERSONALLY** and **do NOT distribute** this bundle!
