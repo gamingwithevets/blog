@@ -29,4 +29,4 @@ If you're using Windows, you might as well use Microsoft Office. I also use a pi
 ## Conclusion
 Thanks to all the Vietnamese pirates, I can install anything without spending a single penny, or Vietnamese dong or whatever. In fact, I play Minecraft and use [TLauncher](https://tlauncher.org/en/) to play for free. Now, I'm not promoting TLauncher, so don't tell me "that's illegal" or something. In fact, Mojang knows but doesn't give a crap about TLauncher.
 
-I'm also planning on releasing a bundle that has these programs. When it's released, I hope it will be useful. But **use it only PERSONALLY** and **do NOT distribute** this bundle!
+I'm also planning on releasing a bundle that has these programs. When it's released, I hope it will be useful. But remember: this bundle is for **personal use** and **cannot be used and/or distributed for profit**.
