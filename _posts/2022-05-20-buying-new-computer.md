@@ -27,6 +27,6 @@ For the downloader, I use Internet Download Manager. But I don't actually pay fo
 If you're using Windows, you might as well use Microsoft Office. I also use a pirated version because, again, piracy is everywhere in Vietnam.
 
 ## Conclusion
-Thanks to all the pirates around the world, I can install anything without spending a single penny, or Vietnamese dong or whatever. In fact, I play Minecraft and use [TLauncher](https://tlauncher.org/en/) to play for free. Now, I'm not promoting TLauncher, so don't tell me "that's illegal" or something. In fact, Mojang knows but doesn't give a crap about TLauncher.
+Thanks to all the pirates around the world, I can install anything without spending any money. In fact, I play Minecraft and use [TLauncher](https://tlauncher.org/en/) to play for free. Now, I'm not promoting TLauncher, so don't tell me "that's illegal" or something. In fact, Mojang knows but doesn't give a crap about TLauncher.
 
 I'm also planning on releasing a bundle that has these programs. When it's released, I hope it will be useful. But remember: this bundle is for **personal use** and **cannot be used and/or distributed for profit**.
