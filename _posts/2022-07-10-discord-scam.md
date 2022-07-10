@@ -1,6 +1,6 @@
 # How I Talk in Discord
 
-So, you might've heard about these Discord scams going around, and you might see that someone in your friends list "told" you that either you sent [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) stuff to your girlfriend which were leaked on a server, or money-related stuff. Either way the message will have a link to a Discord server, which is where all the scamming takes place.
+So, you might've heard about these Discord scams going around, and you might've seen that someone in your friends list "told" you that either you sent [NSFW](https://en.wikipedia.org/wiki/Not_safe_for_work) stuff to your girlfriend which were leaked on a server, or money-related stuff. Either way the message will have a link to a Discord server, which is where all the scamming takes place.
 
 So, how do you... not get fooled by a message, supposedly from someone in your friends list? Well, one way I could think of is to **let your friends know how you talk on Discord**! And that's what I'm doing right now. Also, why not [join my Discord server](https://gamingwithevets.github.io/redirector/discord.html) and share how *you* talk on Discord? This way, if someone got access to your Discord token and your friends recieve a scam message from you, they can **identify if that's the real you**!
 
