@@ -34,7 +34,7 @@ After that, type `ren MsMpEng.exe MsMpEng.exe.bak`. **Do not press Enter yet!** 
 **Step 3.** Rename `MsMpEng.exe`  
 The above rename command doesn't work, as the executable is running in the background. Killing the process doesn't work since Windows complains that it's a system process. So how *do* we kill it?
 
-This is where the IObit Unlocker comes in handy. It can actually kill this process. Right-click the `MsMpEng.exe` executable and choose the IObit Unlocker option. Now in the new window that opens, press Unlock, which will kill the process. Immediately after it's done press Enter on your system-level Command Prompt with the rename command, as Windows Defender will restart it if you're not fast enough.
+This is where the IObit Unlocker comes in handy. It can actually kill this process. Right-click the `MsMpEng.exe` executable and choose the IObit Unlocker option. Now in the new window that opens, press Unlock, which will kill the process. Immediately after it's done press Enter on your system-level Command Prompt with the rename command to rename the executable, as Windows Defender will restart it if you're not fast enough.
 
 **You're done!**  
 Hurray! If you completed all three steps without issue, you should see a message in the Virus & threat protection menu of Windows Defender, telling you to restart the Antimalware Service Executable. But it's renamed, so it should *and* will fail miserably. If Windows Defender updates you might need to redo this process.
