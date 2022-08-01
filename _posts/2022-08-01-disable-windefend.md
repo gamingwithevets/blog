@@ -1,4 +1,4 @@
-# Disabling Windows Defender the EFFICIENT way
+9# Disabling Windows Defender the EFFICIENT way
 If you use Windows, you sometimes find the built-in antivirus Windows Defender complaining about some random file being harmful. And then one day you get sick of this antivirus and you wanna remove that darn thing, because you don't give an F about antiviruses.
 
 So you search up guides on how to disable Windows Defender forever. But they all involve Safe Mode, but you're running a program that takes long to finish, and you don't want to wait any longer. So what now?
@@ -8,7 +8,7 @@ Don't worry: **Mr. GamingWithEvets has a solution!**
 ## Requirements
 This method won't require *any* registry or group policy editing. Here's what you need:
 - [Process Hacker](https://sourceforge.net/projects/processhacker/files/processhacker2/processhacker-2.39-setup.exe/download) or [PSExec (part of PSTools)](https://download.sysinternals.com/files/PSTools.zip)
-- [IOBit Unlocker](https://cdn.iobit.com/dl/unlocker-setup.exe)
+- [IObit Unlocker](https://cdn.iobit.com/dl/unlocker-setup.exe)
 - "Show hidden files" turned on in Folder Options
 
 ## Here we go baby
