@@ -28,6 +28,9 @@ This is where the IObit Unlocker comes in handy. It can actually kill this proce
 PS: In the previous version of the blog post I mistakenly thought that only a Command Prompt ran as SYSTEM was required, because `MsMpEng.exe`'s owner is SYSTEM. I was wrong though. This updated guide should've corrected it.
 
 **You're done!**  
-Hurray! If you completed all three steps without issue, you should see a message in the Virus & threat protection menu of Windows Defender, telling you to restart the Antimalware Service Executable. But it's renamed, so it should *and* will fail miserably. If Windows Defender updates you might need to redo this process.
+Hurray! If you completed all three steps without issue, you should see a message in the Virus & threat protection menu of Windows Defender, telling you to restart the Antimalware Service Executable. But it's renamed, so it should *and* will fail miserably. If Windows Defender updates you might need to redo this process.  
+To re-enable Windows Defender, just do Steps 1 and 2 again, but type the command `ren MsMpEng.exe.bak MsMpEng.exe` instead. Then press Enter. Then click the Restart now button in Windows Defender. It'll take several seconds for the Antimalware Service Executable to start.
+
+PS: After disabling Windows Defender, it will sometimes nag you to restart the Antimalware Service Executable.
 
 Have fun *not* using Windows Defender! :)))
