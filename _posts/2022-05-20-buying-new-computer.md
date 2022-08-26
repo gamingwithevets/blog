@@ -17,6 +17,8 @@ Up next is the important stuff: **the software**. Without the software, you'll h
 ### Browser
 For the browser, I use Google Chrome. Microsoft Edge is basically trash. Internet Explorer is even trashier. They *did* remove IE from Windows 11, though, but that was just to encourage people to use Edge and stop using IE. Nowadays most school websites tell you to use IE because of... Inspect element, of course. They would not want you use it to cheat, and IE is the only known Microsoft browser that doesn't have Inspect element. Therefore, if this was still the case now, in 2022, and everyone has upgraded to Windows 11... well, you can guess what's gonna happen.
 
+**EDIT 08/26/2022**: When writing this part I wasn't aware that Microsoft Edge now has an Internet Explorer mode, so sorry about that. Now I wonder: what browser *doesn't* have Inspect element, because in the past [I used it to exploit a homework website](https://drive.google.com/drive/u/0/folders/1MGd98TLwnsbhJFPthxWPYUI-vqMq-uJ6).
+
 ### Archive Manager
 Windows Explorer can only open some compressed file formats. WinRAR can open probably all of them. I also use 7-Zip, which allows me to attempt to look inside anything at will. WinRAR can also do that now with self-extracting EXE files and JAR files. Also, of course, I don't pay for WinRAR, since the 40-day trial obviously lasts forever.
 
