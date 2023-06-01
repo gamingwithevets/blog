@@ -1,4 +1,7 @@
 # What Do I Do When I Get a New Computer?
+
+*(note: some of this is satire)*
+
 I've been wanting to talk about this. And now I have the chance. So, what exactly do I do when I have a brand new computer?
 
 ## Operating Systems
